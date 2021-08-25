@@ -2,7 +2,7 @@
     slaProfileEnabled="false" traceVariables="true" uid="aze" virtualUsersStates="true">
     <!--****** POPULATION POLICY ******-->
     <population-policy name="Population1">
-        <duration-policy-entry iterations="1" time="1200" timeUnit="0" type="2"/>
+        <duration-policy-entry iterations="1" time="4800" timeUnit="0" type="2"/>
         <volume-policy-entry>
             <constant-volume-policy iterationNumber="1" userNumber="10"/>
         </volume-policy-entry>
